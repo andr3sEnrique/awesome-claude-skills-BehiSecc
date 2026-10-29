@@ -142,6 +142,7 @@
 - [llm-wiki](https://github.com/praneybehl/llm-wiki-plugin) - Build and maintain an LLM-curated personal knowledge base with sharded indexes and search.
 - [swarmvault](https://github.com/swarmclawai/swarmvault) - Compile docs, research, and code into a local markdown wiki, knowledge graph, and hybrid search index.
 - [wiki](https://github.com/plasma-ai/wiki/tree/main/wiki/skills/wiki) - Manage indexed Markdown knowledge bases for agents with scoped retrieval and deterministic indexes.
+- [teach-back-tutor](https://github.com/andr3sEnrique/teach-back-tutor) - Study sessions with a tutor that teaches first (narrated audio, interactive models), has you explain it back, then gives Socratic feedback.
 
 
 ## 🎬 Media & Content
